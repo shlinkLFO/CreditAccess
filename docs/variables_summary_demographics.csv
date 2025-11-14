@@ -1,0 +1,27 @@
+Variable,Data_Type,Missing_Count,Missing_Pct,Unique_Values
+"Source:  Survey of Consumer Expectations, © 2013-25 Federal Reserve Bank of New York (FRBNY).   The SCE data are available without charge at www.newyorkfed.org and may be used subject to license terms posted there.  FRBNY disclaims any responsibility or legal liability for this analysis and interpretation of Survey of Consumer Expectations data.",object,0,0.0,37
+Unnamed: 1,object,0,0.0,3
+Unnamed: 2,object,0,0.0,7
+Unnamed: 3,object,0,0.0,157
+Unnamed: 4,object,0,0.0,214
+Unnamed: 5,object,0,0.0,214
+Unnamed: 6,object,0,0.0,214
+Unnamed: 7,object,0,0.0,214
+Unnamed: 8,object,0,0.0,211
+Unnamed: 9,object,0,0.0,214
+Unnamed: 10,object,0,0.0,214
+Unnamed: 11,object,0,0.0,214
+Unnamed: 12,object,0,0.0,214
+Unnamed: 13,object,0,0.0,214
+Unnamed: 14,object,0,0.0,214
+Unnamed: 15,object,0,0.0,214
+Unnamed: 16,object,0,0.0,214
+Unnamed: 17,object,3,1.4,211
+Unnamed: 18,object,3,1.4,211
+Unnamed: 19,object,3,1.4,211
+Unnamed: 20,object,3,1.4,211
+Unnamed: 21,object,3,1.4,211
+Unnamed: 22,object,0,0.0,214
+Unnamed: 23,object,0,0.0,214
+Unnamed: 24,object,33,15.42,181
+Unnamed: 25,object,33,15.42,181
